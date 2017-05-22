@@ -27,6 +27,16 @@
     {
         "id": 1234,
         "author": "me",
-        "text": "This updates decently" 
+        "text": "This updates decently"
+    },
+    {
+        "id": 1495473788440,
+        "author": "Steve",
+        "text": "updated post!"
+    },
+    {
+        "id": 1495473840816,
+        "author": "Answer",
+        "text": "Data updates onSubmit!"
     }
 ]
